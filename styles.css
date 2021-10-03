@@ -273,6 +273,14 @@ a{
 }
 #projects .project-info p{
     color: white;
+    font-size: 1.8rem;
+    text-indent: 1em;
+}
+#projects .project-info a{
+    color: crimson;
+}
+#projects .project-info a:hover{
+    font-weight: 700;
 }
 #projects .project-img{
     flex-basis: 50% ;
