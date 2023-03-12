@@ -1,4 +1,4 @@
-# Personal-Website
+# Personal-Website (outdated) 
 
 My personal website made with HTML, CSS and a bit of JavaScript.
 
